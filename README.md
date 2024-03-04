@@ -26,3 +26,18 @@ The code performs the following steps:
 1. Ensure Python 3.x is installed on your system.
 2. Install required Python packages using pip:
 
+pip install numpy calfem
+
+3. Copy the provided code into a Python script (e.g., `spring_element_solver.py`).
+4. Run the Python script:
+
+python spring_element_solver.py
+
+
+5. Follow the on-screen instructions to input the necessary parameters and obtain the results.
+
+## Contribution
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+
+
